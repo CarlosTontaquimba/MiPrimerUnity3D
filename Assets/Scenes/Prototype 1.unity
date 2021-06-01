@@ -359,12 +359,12 @@ PrefabInstance:
     - target: {fileID: 571023754136465646, guid: 70bf34f6c25c948458f254e87188b00b,
         type: 3}
       propertyPath: spped
-      value: 0
+      value: 5.7
       objectReference: {fileID: 0}
     - target: {fileID: 571023754136465646, guid: 70bf34f6c25c948458f254e87188b00b,
         type: 3}
       propertyPath: turnSpeed
-      value: 5
+      value: 46
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 70bf34f6c25c948458f254e87188b00b, type: 3}
